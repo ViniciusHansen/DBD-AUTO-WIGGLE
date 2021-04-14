@@ -10,5 +10,3 @@
 * During the Macro execution your binds will be:
     * (HOLD) page up = wiggle
     * (HOLD) page down = struggle
-
-                                                                                                   -Powered by AutoHotKey
