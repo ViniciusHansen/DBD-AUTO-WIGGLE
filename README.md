@@ -11,4 +11,4 @@
     * (HOLD) page up = wiggle
     * (HOLD) page down = struggle
 
--Powered by AutoHotKey
+                                                                                                   -Powered by AutoHotKey
