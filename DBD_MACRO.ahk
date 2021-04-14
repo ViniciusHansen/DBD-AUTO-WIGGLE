@@ -2,8 +2,7 @@
 SetKeyDelay, 85
 
 pgdn::
-Loop
-{
+Loop{
     if not GetKeyState("pgdn", "P")
         break
     Send {space}
@@ -11,10 +10,10 @@ Loop
 return
 
 pgup::
-Loop
-{
+Loop{
     Send, {a Down}{a Up}
     Sleep, 75
     Send, {d Down}{d Up}
-}until !GetKeyState("pgup","P")
+}
+until !GetKeyState("pgup","P")
 return
