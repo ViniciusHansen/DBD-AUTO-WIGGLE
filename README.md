@@ -1,7 +1,5 @@
-# DBD-auto-struggle
-Auto Hotkey Macro to struggle and wiggle in dbd
+What the Macro does?
+This macro that saves your keyboard from getting smashed while  you´re playing Dead By Daylight
 
-
-
-there are actions in this game where the player needs to spam a button
-the purpose of this macro is not to break the players' keyboard
+Is this Cheating?
+No, this macro only automates the button spam thats required to realize certain actions in game
