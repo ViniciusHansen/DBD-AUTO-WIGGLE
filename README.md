@@ -2,7 +2,7 @@
 * This macro saves your keyboard from getting smashed while you´re playing Dead By Daylight.
 
 # Is this Cheating?
-* No, this macro only automates the button spam thats required to realize certain actions in game.
+* No, this macro only automates the button spam that is required to realize certain actions in game.
 
 # How to use it
 * The "Struggle" button must be in the space bar and the movement buttons in the "WASD" (game default)
