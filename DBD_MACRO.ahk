@@ -1,14 +1,6 @@
 #MaxHotkeysPerInterval 999999
 SetKeyDelay, 85
 
-pgdn::
-Loop{
-    if not GetKeyState("pgdn", "P")
-        break
-    Send {space}
-}
-return
-
 pgup::
 Loop{
     Send, {a Down}{a Up}
